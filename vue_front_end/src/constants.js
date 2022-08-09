@@ -1,0 +1,1 @@
+export const BACK_END = 'http://localhost/laraveljob/public/api'
